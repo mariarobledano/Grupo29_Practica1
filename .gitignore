@@ -1,0 +1,19 @@
+# Ignorar archivos de caché y compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de datos sensibles
+*.csv  
+*.pkl 
+
+# Ignorar archivos de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignorar archivos comprimidos
+*.zip
+
+# Ignorar configuraciones de sistema operativo
+.DS_Store  
+Thumbs.db  
